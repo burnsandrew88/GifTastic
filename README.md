@@ -6,4 +6,4 @@ You can enter the name of the TV Show in the input field and once the button app
 
 Click on each image to animate them!!
 
-You can visit the site here: 
+You can visit the site here: https://burnsandrew88.github.io/GifTastic/
