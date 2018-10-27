@@ -4,7 +4,7 @@ $(document).ready(function(){
 
     // Array of tv shows to initially be loaded on to the page
 
-    var shows = ["Game of Thrones", "Big Mouth", "South Park", "New Girl", "Bob's Burgers"]
+    var shows = ["Game of Thrones", "Big Mouth", "South Park", "New Girl", "Bob's Burgers", "Futurama", "Archer"]
     GifDisplay = ""
     console.log(shows)
     console.log(GifDisplay);
