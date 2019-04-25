@@ -75,7 +75,7 @@ $(document).ready(function(){
         // this is the key word that refers to the button that was clicked
 
         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
-        p + "&api_key=dc6zaTOxFJmzC&limit=15";
+        p + "&api_key=0AlCAsWnE61xJQf3PymPrj0adyi03e3R&limit=15";
 
         // debugging that the api key is being registered
         console.log(queryURL);
